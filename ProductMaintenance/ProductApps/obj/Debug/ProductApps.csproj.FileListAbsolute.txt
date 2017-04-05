@@ -27,3 +27,6 @@ C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps
 C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.g.resources
 C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
 C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache
+C:\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe.config
+C:\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
+C:\MyWrap\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb

@@ -103,6 +103,14 @@ namespace ProductApps {
         #line default
         #line hidden
         
+        
+        #line 20 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.TextBlock TotalwrapCharge;
+        
+        #line default
+        #line hidden
+        
         private bool _contentLoaded;
         
         /// <summary>
@@ -174,6 +182,9 @@ namespace ProductApps {
             return;
             case 8:
             this.totalChargeTextBlock = ((System.Windows.Controls.TextBlock)(target));
+            return;
+            case 9:
+            this.TotalwrapCharge = ((System.Windows.Controls.TextBlock)(target));
             return;
             }
             this._contentLoaded = true;
