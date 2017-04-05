@@ -12,12 +12,14 @@
         <TextBox Name="priceTextBox" HorizontalAlignment="Left" Height="24" Margin="122,78,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="77"/>
         <TextBox x:Name="quantityTextBox" HorizontalAlignment="Left" Height="24" Margin="122,119,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="77"/>
         <Button Name="calculateButton" Content="_Calculate" HorizontalAlignment="Left" Height="37" Margin="351,24,0,0" VerticalAlignment="Top" Width="122" Click="calculateButton_Click"/>
-        <Button Name="clearButton" Content="C_lear" HorizontalAlignment="Left" Height="34" Margin="351,91,0,0" VerticalAlignment="Top" Width="122" Click="clearButton_Click"/>
-        <Button Name="closeButton" Content="Cl_ose" HorizontalAlignment="Left" Height="34" Margin="351,153,0,0" VerticalAlignment="Top" Width="122" Click="closeButton_Click"/>
+        <Button Name="clearButton" Content="C_lear" HorizontalAlignment="Left" Height="34" Margin="351,119,0,0" VerticalAlignment="Top" Width="122" Click="clearButton_Click"/>
+        <Button Name="closeButton" Content="Cl_ose" HorizontalAlignment="Left" Height="34" Margin="351,225,0,0" VerticalAlignment="Top" Width="122" Click="closeButton_Click"/>
         <Label Content="Total Charge after adding delivery charge" HorizontalAlignment="Left" Margin="11,191,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.355,0.423"/>
         <TextBlock x:Name="totalChargeTextBlock" HorizontalAlignment="Left" Margin="271,191,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="62" Height="26"/>
         <Label Content="Total Charge After Wrap" HorizontalAlignment="Left" Margin="11,233,0,0" VerticalAlignment="Top"/>
         <TextBlock x:Name="TotalwrapCharge" HorizontalAlignment="Left" Margin="271,233,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="62" Height="26"/>
+        <Label Content="Total Charge After GST" HorizontalAlignment="Left" Margin="11,264,0,0" VerticalAlignment="Top" RenderTransformOrigin="-2.474,0.077"/>
+        <TextBlock x:Name="totalAfterGST" HorizontalAlignment="Left" Margin="271,274,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="25" Width="62"/>
 
 
     </Grid>
